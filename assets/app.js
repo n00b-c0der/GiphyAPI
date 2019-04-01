@@ -1,4 +1,4 @@
-var showTitle = ['The Joy of Painting: With Bob Ross', 'Game of Thrones', 'Trailer Park Boys', 'Always Sunny in Philadelphia', 'The Walking Dead', 'Peaky Blinders', 'Unbreakable Kimmy Schmidt', "Chef's Table", 'Louie', 'Parks and Recreation', 'The Office', 'Archer'];
+var showTitle = ['The Joy of Painting: With Bob Ross', 'Game of Thrones', 'Trailer Park Boys', 'Always Sunny in Philadelphia', 'The Walking Dead', 'Peaky Blinders', 'Unbreakable Kimmy Schmidt', "Chef's Table", 'Louie', 'Parks and Recreation', 'The Office', 'Archer', 'Regular Show'];
 var currentGif; var pausedGif; var animatedGif; var stillGif;
 
 //creates buttons
